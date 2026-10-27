@@ -101,27 +101,27 @@ python simanser.py
 Skenario Output yang Akan Muncul:
 
     Bukti Abstraksi: Muncul pesan error menandakan Server tidak bisa diinstansiasi.
-    <img width="1445" height="67" alt="image" src="https://github.com/user-attachments/assets/a37b6921-5ca2-46eb-bb66-4bc72654f12a" />
+<img width="1445" height="67" alt="image" src="https://github.com/user-attachments/assets/a37b6921-5ca2-46eb-bb66-4bc72654f12a">
 
 
     Polimorfisme Pewarisan: Mencetak status 3 server berbeda dengan format spesifik masing-masing.
-    <img width="413" height="141" alt="image" src="https://github.com/user-attachments/assets/dfc791b9-7c2a-4f41-a0fa-c0ce171d3aad" />
+<img width="413" height="141" alt="image" src="https://github.com/user-attachments/assets/dfc791b9-7c2a-4f41-a0fa-c0ce171d3aad">
 
 
     Duck Typing: Memanggil fungsi notifikasi yang sama untuk Email dan SMS.
-    <img width="282" height="90" alt="image" src="https://github.com/user-attachments/assets/7f416067-2ebf-412d-a3ec-c461f53c3bfd" />
+<img width="282" height="90" alt="image" src="https://github.com/user-attachments/assets/7f416067-2ebf-412d-a3ec-c461f53c3bfd">
 
 
     Operator Overloading: Mencetak jumlah server menggunakan fungsi bawaan len().
-    <img width="498" height="91" alt="image" src="https://github.com/user-attachments/assets/00d48e8c-792d-4684-a195-8c38ccb6a637" />
+<img width="498" height="91" alt="image" src="https://github.com/user-attachments/assets/00d48e8c-792d-4684-a195-8c38ccb6a637">
 
 
     Asosiasi: Admin melakukan restart pada web server.
-    <img width="509" height="64" alt="image" src="https://github.com/user-attachments/assets/7bd4312d-476b-4367-b206-50a5adb57aaa" />
+<img width="509" height="64" alt="image" src="https://github.com/user-attachments/assets/7bd4312d-476b-4367-b206-50a5adb57aaa">
 
 
     Komposisi: Menampilkan riwayat insiden yang otomatis tercatat di dalam objek Database Server saat RAM-nya tinggi.
-    <img width="913" height="58" alt="image" src="https://github.com/user-attachments/assets/6d461bc7-631f-4bb4-bbdd-25436fe38ca0" />
+<img width="913" height="58" alt="image" src="https://github.com/user-attachments/assets/6d461bc7-631f-4bb4-bbdd-25436fe38ca0">
 
 
 ## 7. Repositori Github
