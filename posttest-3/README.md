@@ -4,7 +4,7 @@
 SIMANSER adalah program simulasi peran **Systems Administrator** untuk mengelola sekumpulan server (Web, Database, File) menggunakan pendekatan OOP (Python). Program ini mengimplementasikan relasi UML, Abstraksi, Polimorfisme, dan prinsip SOLID.
 
 ## 2. Class Diagram & Relasi UML
-Berikut adalah relasi antar kelas di dalam program. *(Catatan: Silakan render kode Mermaid di bawah ini ke draw.io / mermaid.live, lalu simpan sebagai gambar `diagram.png` dan ganti blok kode ini dengan `![Class Diagram](diagram.png)` sebelum di-push ke GitHub).*
+Berikut adalah relasi antar kelas di dalam program.
 
 ```mermaid
 classDiagram
